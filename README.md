@@ -1,5 +1,10 @@
 # 🚘 BMW Global Sales Dashboard
 
+![Power BI Dashboard](https://github.com/aadarshjaiswalvns/BMW-Global-Sales-Dashboard/blob/main/Dashboard_preview.png)
+![Power BI Dashboard](https://github.com/aadarshjaiswalvns/BMW-Global-Sales-Dashboard/blob/main/Dashboard_preview_1.png)
+
+## 📊 Project Overview
+
 This project presents a **comprehensive analysis of BMW's global sales performance**, combining robust data analytics with rich visual storytelling. By integrating **three complementary datasets**—BMW sales records, car model images, and country flags—this project delivers an interactive and visually compelling **Power BI dashboard** designed for executives, analysts, and automotive enthusiasts alike.
 
 ---
