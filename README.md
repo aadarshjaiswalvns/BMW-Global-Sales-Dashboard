@@ -97,14 +97,14 @@ This project exemplifies how **clean data**, **smart visual design**, and **doma
 ## 📂 Repository Structure
 
 📁 data/
-├── BMW_Sales_Data.csv
-├── Car_Images.csv
-├── Countries_with_Flags_URL.csv
-├── dashboard_preview.png # Optional image preview
-└── visuals/ # Chart or icon samples
-
-📄 Luxury_Line_Analytics_Dashboard.pbix # Power BI Dashboard
-📄 README.md # Project overview
+├── BMW_Sales_Data.csv  
+├── Car_Images.csv  
+├── Countries_with_Flags_URL.csv  
+├── dashboard_preview.png # Optional image preview  
+└── visuals/ # Chart or icon samples  
+  
+📄 Luxury_Line_Analytics_Dashboard.pbix # Power BI Dashboard  
+📄 README.md # Project overview  
 
 
 ---
