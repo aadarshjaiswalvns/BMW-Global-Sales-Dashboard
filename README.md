@@ -96,7 +96,7 @@ This project exemplifies how **clean data**, **smart visual design**, and **doma
 
 ## 📂 Repository Structure
 
-📁 data/
+📁 data/  
 ├── BMW_Sales_Data.csv  
 ├── Car_Images.csv  
 ├── Countries_with_Flags_URL.csv  
