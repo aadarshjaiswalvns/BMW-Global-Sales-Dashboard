@@ -109,14 +109,6 @@ This project exemplifies how **clean data**, **smart visual design**, and **doma
 
 ---
 
-## 🚀 How to Explore the Dashboard
-
-1. Download the `.pbix` file  
-2. Open in **Power BI Desktop**  
-3. Explore interactive filters, visuals, and custom image visuals for insights
-
----
-
 ## 📬 Connect with Me
 
 **Aadarsh Jaiswal**  
